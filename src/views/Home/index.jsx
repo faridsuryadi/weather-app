@@ -5,7 +5,6 @@ import {
   Button,
   InputGroup,
   InputRightElement,
-  Stack,
   VStack,
   Text,
 } from "@chakra-ui/react";
@@ -19,7 +18,6 @@ import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer, toast } from "react-toastify";
 import { FaLocationArrow, FaSpinner } from 'react-icons/fa';
 import { useColorModeValue } from "@chakra-ui/react";
-import {  } from 'react-icons/fa';
 import { useLocation, useNavigate } from 'react-router-dom';
 
 export const HomeView = () => {
