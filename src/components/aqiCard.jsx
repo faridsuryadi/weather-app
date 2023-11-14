@@ -4,7 +4,6 @@ import {
   useColorModeValue,
   Heading,
   Flex,
-  Text,
   Skeleton, 
 } from '@chakra-ui/react';
 import { WeatherVariable } from './weatherVariable';

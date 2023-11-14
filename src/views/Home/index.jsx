@@ -16,7 +16,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer, toast } from "react-toastify";
-import { FaLocationArrow, FaSpinner } from 'react-icons/fa';
+import { FaLocationArrow } from 'react-icons/fa';
 import { useColorModeValue } from "@chakra-ui/react";
 import { useLocation, useNavigate } from 'react-router-dom';
 
