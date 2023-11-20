@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Available at https://master--aplikasi-cuaca.netlify.app/ \
+The weather data used can be obtained from https://open-meteo.com/.
+
 
 ## Available Scripts
 
